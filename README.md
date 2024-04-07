@@ -1,2 +1,2 @@
 # sample-repo-new
-git講座用
+更新
